@@ -1,0 +1,4 @@
+# python==3.5.2rc1
+Flask-RESTful==0.3.7
+Flask==1.1.1
+PyJWT==1.4.2
